@@ -1,4 +1,4 @@
-# Olá, eu sou Gustavo 👋
+# Olá, meu nome é Gustavo 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou estudante de **Ciências da Computação** e aspirante a **desenvolvedor de jogos**.  
 Aqui compartilho meus projetos, experiências e aprendizados.
@@ -9,7 +9,7 @@ Aqui compartilho meus projetos, experiências e aprendizados.
 - 🎮 Desenvolvedor de games em desenvolvimento  
 - 💻 Já codei com: Python, C++, C#, Java, Kotlin, WordPress, Django, SpringBoot, HTML, CSS, JS, SQL, Unreal e Godot  
 - 📚 Apaixonado por aprender novas tecnologias e desafios  
-- 🌐 Sempre buscando melhorar minhas habilidades em programação e design de jogos
+- 🌐 Sempre buscando melhorar minhas habilidades em programação e em jogos
 
 ---
 
